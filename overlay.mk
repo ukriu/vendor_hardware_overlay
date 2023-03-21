@@ -159,6 +159,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-nordce-systemui \
 	treble-overlay-oneplus-op10pro \
 	treble-overlay-oneplus-op10pro-systemui \
+	treble-overlay-oneplus-op12 \
+	treble-overlay-oneplus-op12-systemui \
 	treble-overlay-oneplus-op6 \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
