@@ -287,6 +287,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-teclast-p20hd \
 	treble-overlay-teclast-t30 \
 	treble-overlay-tecno-camon11 \
+	treble-overlay-tecno-camon20pro4g \
 	treble-overlay-tecno-pova4pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
