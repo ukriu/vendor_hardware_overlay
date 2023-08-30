@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lenovo-Q706F \
 	treble-overlay-lenovo-Y70 \
 	treble-overlay-lenovo-k5pro \
+	treble-overlay-lenovo-p11_pro_plus \
 	treble-overlay-lenovo-s5 \
 	treble-overlay-lenovo-s5pro \
 	treble-overlay-lenovo-tabv7 \
