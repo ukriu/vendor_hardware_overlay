@@ -1,0 +1,15 @@
+Warning: ./HighPriorityMisc: Overlay ./HighPriorityMisc is defining config_swipe_up_gesture_setting_available which is forbidden
+Warning: ./HighPriorityMisc: Overlay ./HighPriorityMisc is defining config_volumeAdjustmentForRemoteGroupSessions which is forbidden
+Warning: ./Moto/E5/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/E5Plus/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6Play/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G6Plus/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G7Play/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/G7Power/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/One/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Warning: ./Moto/Razr/AndroidManifest.xml: ro.vendor.product.* is deprecated. Please use ro.vendor.build.fingerprint
+Fatal: ./Nubia/RedMagic6series/res/values/config.xml: defines a non-existing attribute config_is_front_facing_fps
+Fatal: ./Nubia/RedMagic6series/res/values/config.xml: defines a non-existing attribute config_udfps_sensor_props
+Note: First high continuous priority available is 983
+	I recommend you use priority 659
