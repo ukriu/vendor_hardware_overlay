@@ -18,4 +18,7 @@
          certificate is not validated, by not specifying a Root CA certificate and/or server domain
          name. It is STRONGLY RECOMMENDED to be set to false -->
     <bool translatable="false" name="config_wifiAllowInsecureEnterpriseConfigurationsForSettingsAndSUW">true</bool>
+
+    <!-- Always assume 5GHz support -->
+    <bool translatable="false" name ="config_wifi5ghzSupport">true</bool>
 </resources>
