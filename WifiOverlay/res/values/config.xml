@@ -20,5 +20,5 @@
     <bool translatable="false" name="config_wifiAllowInsecureEnterpriseConfigurationsForSettingsAndSUW">true</bool>
 
     <!-- Always assume 5GHz support -->
-    <bool translatable="false" name ="config_wifi5ghzSupport">true</bool>
+    <bool translatable="false" name="config_wifi5ghzSupport">true</bool>
 </resources>

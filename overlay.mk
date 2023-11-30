@@ -2,7 +2,6 @@ PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
 	TrebleApp \
-	treble-WifiOverlay \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-SystemUI-FalseLocks \
@@ -318,6 +317,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-vsmart-active3 \
 	treble-overlay-vsmart-joy3 \
 	treble-overlay-vsmart-live \
+	treble-overlay-wifi \
 	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-civi \
 	treble-overlay-xiaomi-civi-systemui \
