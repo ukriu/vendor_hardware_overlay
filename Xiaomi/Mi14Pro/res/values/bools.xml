@@ -6,6 +6,7 @@
     <bool name="config_device_vt_available">true</bool>
     <bool name="config_device_wfc_ims_available">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <!-- I swear it makes sense to set config_dozeAlwaysOnEnabled, and I can completely explain why. -->
     <bool name="config_dozeAlwaysOnEnabled">false</bool>
     <bool name="config_enableBurnInProtection">true</bool>
     <bool name="config_hotswapCapable">true</bool>
