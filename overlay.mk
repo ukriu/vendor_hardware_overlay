@@ -300,6 +300,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
 	treble-overlay-telephony-caf-ims \
+	treble-overlay-telephony-floss-ims \
 	treble-overlay-telephony-hw-ims \
 	treble-overlay-telephony-mtk-ims \
 	treble-overlay-telephony-slsi-ims \
@@ -321,6 +322,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-vsmart-active3 \
 	treble-overlay-vsmart-joy3 \
 	treble-overlay-vsmart-live \
+	treble-overlay-wifi \
 	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-civi \
 	treble-overlay-xiaomi-civi-systemui \
@@ -330,6 +332,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mi12lite-systemui \
 	treble-overlay-xiaomi-mi13 \
 	treble-overlay-xiaomi-mi13-systemui \
+	treble-overlay-xiaomi-mi14pro \
+	treble-overlay-xiaomi-mi14pro-systemui \
 	treble-overlay-xiaomi-mi6x \
 	treble-overlay-xiaomi-mi8 \
 	treble-overlay-xiaomi-mi8ee \
