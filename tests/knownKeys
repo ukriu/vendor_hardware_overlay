@@ -149,3 +149,4 @@ config_screenBrightnessSettingMinimumFloat
 config_defaultRefreshRate
 config_defaultPeakRefreshRate
 config_screenBrightnessSettingDefaultFloat
+config_is_powerbutton_fps

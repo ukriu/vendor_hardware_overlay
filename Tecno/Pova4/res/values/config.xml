@@ -88,7 +88,6 @@
     </string-array>
     <bool name="config_dozeAfterScreenOff">true</bool>
     <bool name="config_is_powerbutton_fps">true</bool>
-    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_device_volte_available">false</bool>
@@ -107,9 +106,10 @@
     <integer name="config_screenBrightnessDark">1</integer>
     <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">3000</integer>
-    <integer name="config_defaultPeakRefreshRate">121</integer>
-    <integer name="config_defaultRefreshRate">121</integer>
-    <integer name="config_screenBrightnessDoze">5</integer>
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.4</item>
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.003921569</item>
+    <integer name="config_defaultPeakRefreshRate">91</integer>
+    <integer name="config_defaultRefreshRate">91</integer>
+    <integer name="config_screenBrightnessDoze">5</integer>
 </resources>

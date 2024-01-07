@@ -55,6 +55,10 @@
         <item>255</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
+        <item>6</item>
+        <item>18</item>
+        <item>34</item>
+        <item>82</item>
         <item>128</item>
         <item>256</item>
         <item>384</item>
@@ -62,16 +66,15 @@
         <item>640</item>
         <item>768</item>
         <item>896</item>
-        <item>1024</item>
-        <item>2048</item>
-        <item>4096</item>
-        <item>6144</item>
+        <item>1536</item>
+        <item>2560</item>
+        <item>3584</item>
+        <item>4608</item>
+        <item>5632</item>
+        <item>7168</item>
         <item>8192</item>
-        <item>10240</item>
-        <item>12288</item>
-        <item>14336</item>
-        <item>16384</item>
-        <item>18432</item>
+        <item>8704</item>
+        <item>9728</item>
     </integer-array>
     <string-array name="config_tether_bluetooth_regexs">
         <item>bt-pan</item>
@@ -88,7 +91,6 @@
     </string-array>
     <bool name="config_dozeAfterScreenOff">true</bool>
     <bool name="config_is_powerbutton_fps">true</bool>
-    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_device_volte_available">false</bool>
