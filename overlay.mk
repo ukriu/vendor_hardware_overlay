@@ -303,10 +303,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-pova4-systemui \
 	treble-overlay-tecno-pova4pro \
 	treble-overlay-tecno-pova4pro-systemui \
-        treble-overlay-tecno-pova5 \
-        treble-overlay-tecno-pova5-systemui \
-        treble-overlay-tecno-pova5pro \
-        treble-overlay-tecno-pova5pro-systemui \
+	treble-overlay-tecno-pova5 \
+	treble-overlay-tecno-pova5-systemui \
+	treble-overlay-tecno-pova5pro \
+	treble-overlay-tecno-pova5pro-systemui \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
 	treble-overlay-telephony-caf-ims \
@@ -342,6 +342,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mi12lite-systemui \
 	treble-overlay-xiaomi-mi13 \
 	treble-overlay-xiaomi-mi13-systemui \
+	treble-overlay-xiaomi-mi13t \
 	treble-overlay-xiaomi-mi14pro \
 	treble-overlay-xiaomi-mi14pro-systemui \
 	treble-overlay-xiaomi-mi6x \
