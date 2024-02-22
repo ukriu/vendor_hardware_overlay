@@ -56,6 +56,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-hw-ims \
 	treble-overlay-infinix-note10 \
 	treble-overlay-infinix-note10pro \
+	treble-overlay-infinix-note12v2023 \
+	treble-overlay-infinix-note12v2023-systemui \
 	treble-overlay-infinix-note30 \
 	treble-overlay-infinix-note30-systemui \
 	treble-overlay-infinix-note30pro \
@@ -342,6 +344,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mi12lite-systemui \
 	treble-overlay-xiaomi-mi13 \
 	treble-overlay-xiaomi-mi13-systemui \
+	treble-overlay-xiaomi-mi13t \
 	treble-overlay-xiaomi-mi14pro \
 	treble-overlay-xiaomi-mi14pro-systemui \
 	treble-overlay-xiaomi-mi6x \
