@@ -20,12 +20,6 @@
         <item>210</item>
         <item>255</item>
     </array>
-    <!-- The original contained 10 more keys, but they just don't exist -->
-    <array name="config_availableColorModes">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-    </array>
     <array name="config_mobile_tcp_buffers">
         <item>5gnr:2097152,6291456,16777216,512000,2097152,8388608</item>
         <item>lte:2097152,4194304,8388608,262144,524288,1048576</item>
