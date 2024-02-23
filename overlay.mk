@@ -401,6 +401,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote114g-systemui \
 	treble-overlay-xiaomi-redminote115g \
 	treble-overlay-xiaomi-redminote115g-systemui \
+	treble-overlay-xiaomi-redminote125g \
 	treble-overlay-xiaomi-redminote5 \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
