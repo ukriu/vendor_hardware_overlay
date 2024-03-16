@@ -2,6 +2,7 @@ PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
 	TrebleApp \
+	treble-overlay-Hisense-HLTE556N \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-SystemUI-FalseLocks \
@@ -27,7 +28,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-essential-ph_1 \
 	treble-overlay-fairphone-fp3 \
 	treble-overlay-highpriomisc \
-	treble-overlay-Hisense-HLTE556N \
 	treble-overlay-htc-exodus1 \
 	treble-overlay-htc-u12plus \
 	treble-overlay-huawei \
@@ -311,6 +311,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-pova5-systemui \
 	treble-overlay-tecno-pova5pro \
 	treble-overlay-tecno-pova5pro-systemui \
+	treble-overlay-tecno-spark10pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
 	treble-overlay-telephony-caf-ims \
