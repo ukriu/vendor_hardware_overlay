@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="navigation_side_padding">85.0dip</dimen>
-    <dimen name="rounded_corner_content_padding">13.0dip</dimen>
+    <dimen name="rounded_corner_content_padding">19.0dip</dimen>
+    <dimen name="status_bar_padding_end">12.0dip</dimen>
+    <dimen name="status_bar_padding_start">13.699982dip</dimen>
     <dimen name="status_bar_padding_top">7.0dip</dimen>
 </resources>
