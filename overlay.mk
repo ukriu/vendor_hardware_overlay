@@ -303,6 +303,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-teclast-t30 \
 	treble-overlay-tecno-camon11 \
 	treble-overlay-tecno-camon20pro4g \
+	treble-overlay-tecno-camon20pro4g-systemui \
 	treble-overlay-tecno-pova4 \
 	treble-overlay-tecno-pova4-systemui \
 	treble-overlay-tecno-pova4pro \
