@@ -18,6 +18,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfonemaxshot \
 	treble-overlay-blackview-bv6900 \
 	treble-overlay-blackview-bv9500plus \
+	treble-overlay-blackview-shark8 \
+	treble-overlay-blackview-shark8-systemui \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
 	treble-overlay-devinputjack \
