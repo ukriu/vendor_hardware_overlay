@@ -7,11 +7,9 @@
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.4</item>
-    <integer name="config_screenBrightnessDoze">5</integer>
     <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
     <fraction name="config_autoBrightnessAdjustmentMaxGamma">100.0%</fraction>
-    <integer name="config_screenBrightnessDim">20</integer>
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
         <item>4</item>
@@ -250,11 +248,9 @@
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_useDevInputEventForAudioJack">true</bool>
     <string name="config_mainBuiltInDisplayCutout">M84.0014003,76.0002722 C39.8036856,75.9997279 11.8039716,75.9996372 0.00225823708,76 C-11.8004588,76.0003629 -39.8012115,76.0004536 -84,76.0002722 L-84,-4.19220214e-13 L84.0014003,-4.19220214e-13 L84.0014003,76.0002722 Z</string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">@string/config_mainBuiltInDisplayCutout</string>
-    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
     <integer name="config_defaultRefreshRate">0</integer>
     <integer name="config_defaultPeakRefreshRate">61</integer>
-        <string-array name="config_biometric_sensors">
+    <string-array name="config_biometric_sensors">
         <item>0:2:15</item>
     </string-array>
 </resources>
