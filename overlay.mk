@@ -95,6 +95,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-mbi-s10-systemui \
 	treble-overlay-meizu-m2181 \
 	treble-overlay-meizu-m2181-systemui \
+	treble-overlay-meizu-m2461 \
+	treble-overlay-meizu-m2461-systemui \
 	treble-overlay-misc-aod \
 	treble-overlay-misc-aod-systemui \
 	treble-overlay-misc-dt2w \
