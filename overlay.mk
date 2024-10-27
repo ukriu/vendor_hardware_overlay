@@ -58,6 +58,9 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-VTR \
 	treble-overlay-huawei-WAS \
 	treble-overlay-hw-ims \
+	treble-overlay-infinix-note5 \
+	treble-overlay-infinix-note7 \
+	treble-overlay-infinix-note8 \
 	treble-overlay-infinix-note10 \
 	treble-overlay-infinix-note10pro \
 	treble-overlay-infinix-note12v2023 \
@@ -66,9 +69,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-note30-systemui \
 	treble-overlay-infinix-note30pro \
 	treble-overlay-infinix-note30pro-systemui \
-	treble-overlay-infinix-note5 \
-	treble-overlay-infinix-note7 \
-	treble-overlay-infinix-note8 \
+	treble-overlay-infinix-note40pro \
 	treble-overlay-infinix-s4 \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
