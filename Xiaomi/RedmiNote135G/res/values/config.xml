@@ -394,9 +394,6 @@
     <bool name="config_wifi_fast_bss_transition_enabled">true</bool>
     <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
 
-    <dimen name="navigation_bar_height">16dp</dimen>
-    <dimen name="navigation_bar_height_landscape">16dp</dimen>
-    <dimen name="navigation_bar_width">24dp</dimen>
     <dimen name="rounded_corner_radius">70px</dimen>
     <dimen name="rounded_corner_radius_bottom">70px</dimen>
     <dimen name="rounded_corner_radius_top">70px</dimen>
